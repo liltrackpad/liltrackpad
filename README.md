@@ -9,7 +9,7 @@
 - Python 🐍
 - HTML/CSS 🌐
 - VB 🤖
-- BAT 👽
+- BAT 🎓
 
 ## Languages im progressing in (intermediate or below)
 - PHP 🔄
