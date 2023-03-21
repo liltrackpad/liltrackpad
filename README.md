@@ -29,6 +29,6 @@
 ## Projects im working on
 
 - [Guilded](https://guilded.gg) mass account generator
-- Private biolink service with [port](https://github.com/0x7fe73)
+- Private biolink service with [Port](https://github.com/0x7fe73)
 
 ![Banner](https://tenor.com/view/metapcs-meta-pc-gaming-gamer-gif-25468909)
