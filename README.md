@@ -1,22 +1,34 @@
 # meta
 
-## Interests
+## Organization
+
+- Owner @ [NeoDev](https://github.com/neo-devx)
+
+## Mainly used languages
+
+- [Python](https://python.org) 🐍
+- [GoLang](https://go.dev) 🤖
+
+## Fields
+
 - Full stack web development 📚
-- Software development 💻
-- Website exploitation 👾
+- Software developer ⚙️
 
-## Languages I use a lot
-- Python 🐍
-- HTML/CSS 🌐
-- VB 🤖
-- BAT 🎓
+## Skills & Tools
 
-## Languages im progressing in (intermediate or below)
-- PHP 🔄
-- Lua 📜
-- Golang (primarily focused on learning this) 🤖
+- Graphic design (Photoshop) 🎨
+- Video editing (Premier Pro) 📹
+- Databases (MongoDB & SQL) 🌐
 
-## Github summary
-- I will only post small projects here that im fine with releasing source to
-- I'd still like credit where my code is used
-- If there's any errors in my programs, submit an issue and ill work on a solution
+## Current interests
+
+- Web exploitation 💉
+- Learning better frontend 🖼️
+- Improving my skill at languages I already know 🎯
+
+## Projects im working on
+
+- [Guilded](https://guilded.gg) mass account generator
+- Private biolink service with [port](https://github.com/0x7fe73)
+
+![Banner](https://tenor.com/view/metapcs-meta-pc-gaming-gamer-gif-25468909)
