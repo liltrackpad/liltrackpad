@@ -30,5 +30,3 @@
 
 - [Guilded](https://guilded.gg) mass account generator
 - Private biolink service with [Port](https://github.com/0x7fe73)
-
-![Banner](https://cdn.discordapp.com/attachments/1085272520409747591/1087874926574313502/metapcs-meta.gif)
