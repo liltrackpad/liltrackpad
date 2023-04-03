@@ -1,8 +1,4 @@
-# meta
-
-## Organization
-
-- Owner @ [NeoDev](https://github.com/neo-devx)
+# lil trackpad
 
 ## Mainly used languages
 
