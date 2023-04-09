@@ -24,9 +24,4 @@
 
 ## Projects im working on
 
-- [Guilded](https://guilded.gg) mass account generator
-- Private biolink service with [Port](https://github.com/0x7fe73)
-
-## Contacts
-
-- [Discord](https://discord.gg/scriptkiddies)
+- [jolv](https://github.com/liltrackpad/jolv) (remote access tool made in Go) ⚡
